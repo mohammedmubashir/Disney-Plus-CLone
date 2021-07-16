@@ -66,6 +66,7 @@ height: 30vh;
 width: 35vw;
 min-height: 170px;
 min-width: 200px;
+margin-top:60px;
 
 img{
     width: 100%;
@@ -137,5 +138,6 @@ color:rgb(249,249,249);
 font-size:20px;
 line-height:1.4;
 margin-top:16px;
+max-width:760px;
 
 `
